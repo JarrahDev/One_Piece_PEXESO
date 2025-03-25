@@ -1,1 +1,22 @@
 @import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Pirata+One&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Impact", "Haettenschweiler", "Franklin Gothic Bold",
+    "Arial Black", sans-serif;
+}
+
+html {
+    font-size: 62.5%;
+}
+:root {
+    --white: #fff;
+    --light-grey: #555;
+    --grey: #222;
+    --blue: #199ec9ce;
+    --grid-cell: 6;
+    --gap: 1rem;
+    --time: 0.5s;
+}
